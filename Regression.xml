@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<groups>
+<run>
+<include name="Master"/>
+</run>
+</groups>
+<listeners>
+   <listener class-name="extentReport.ExtentTestNGIReporterListener"/>
+</listeners>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="test.TC001VerifyHeaderPage"/>
+      <class name="test.TC005VerifyHotelModule"/>
+      <class name="test.TC007VerifyCruiseModule"/>
+      <class name="test.Tc009VerifyHomesAndVillas"/>
+      <class name="test.TC004VerifyFliteModule"/>
+      <class name="test.TC008VerifyTravelInsuranceModule"/>
+      <class name="test.TC006VerifyTrainModule"/>
+      <class name="test.TC003VerifyHeaderContainer"/>
+      <class name="test.TC002VerifyLoginPage"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
