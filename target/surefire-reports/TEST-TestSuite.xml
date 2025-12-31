@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="535.473" tests="15" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="354.134" tests="15" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="webdriver.chrome.driver" value="C:\Users\nagesh\.cache\selenium\chromedriver\win64\143.0.7499.169\chromedriver.exe"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-21\bin"/>
-    <property name="sun.java.command" value="C:\Users\nagesh\AppData\Local\Temp\surefire13744398793129602078\surefirebooter-20251230172731953_3.jar C:\Users\nagesh\AppData\Local\Temp\surefire13744398793129602078 2025-12-30T17-27-31_507-jvmRun1 surefire-20251230172731953_1tmp surefire_0-20251230172731953_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\nagesh\AppData\Local\Temp\surefire14690750329558589343\surefirebooter-20251231151736725_3.jar C:\Users\nagesh\AppData\Local\Temp\surefire14690750329558589343 2025-12-31T15-17-36_494-jvmRun1 surefire-20251231151736725_1tmp surefire_0-20251231151736725_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="D:\Java\makeMyTrip\target\test-classes;D:\Java\makeMyTrip\target\classes;C:\Users\nagesh\.m2\repository\org\seleniumhq\selenium\selenium-java\4.38.0\selenium-java-4.38.0.jar;C:\Users\nagesh\.m2\repository\org\seleniumhq\selenium\selenium-api\4.38.0\selenium-api-4.38.0.jar;C:\Users\nagesh\.m2\repository\org\jspecify\jspecify\1.0.0\jspecify-1.0.0.jar;C:\Users\nagesh\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.38.0\selenium-chrome-driver-4.38.0.jar;C:\Users\nagesh\.m2\repository\com\google\auto\service\auto-service-annotations\1.1.1\auto-service-annotations-1.1.1.jar;C:\Users\nagesh\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.38.0\selenium-chromium-driver-4.38.0.jar;C:\Users\nagesh\.m2\repository\org\seleniumhq\selenium\selenium-json\4.38.0\selenium-json-4.38.0.jar;C:\Users\nagesh\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.38.0\selenium-manager-4.38.0.jar;C:\Users\nagesh\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v140\4.38.0\selenium-devtools-v140-4.38.0.jar;C:\Users\nagesh\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v141\4.38.0\selenium-devtools-v141-4.38.0.jar;C:\Users\nagesh\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v142\4.38.0\selenium-devtools-v142-4.38.0.jar;C:\Users\nagesh\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.38.0\selenium-edge-driver-4.38.0.jar;C:\Users\nagesh\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.38.0\selenium-firefox-driver-4.38.0.jar;C:\Users\nagesh\.m2\repository\org\seleniumhq\selenium\selenium-http\4.38.0\selenium-http-4.38.0.jar;C:\Users\nagesh\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.38.0\selenium-ie-driver-4.38.0.jar;C:\Users\nagesh\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.38.0\selenium-remote-driver-4.38.0.jar;C:\Users\nagesh\.m2\repository\com\google\guava\guava\33.5.0-jre\guava-33.5.0-jre.jar;C:\Users\nagesh\.m2\repository\com\google\guava\failureaccess\1.0.3\failureaccess-1.0.3.jar;C:\Users\nagesh\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\nagesh\.m2\repository\com\google\j2objc\j2objc-annotations\3.1\j2objc-annotations-3.1.jar;C:\Users\nagesh\.m2\repository\io\opentelemetry\opentelemetry-api\1.55.0\opentelemetry-api-1.55.0.jar;C:\Users\nagesh\.m2\repository\io\opentelemetry\opentelemetry-context\1.55.0\opentelemetry-context-1.55.0.jar;C:\Users\nagesh\.m2\repository\io\opentelemetry\opentelemetry-common\1.55.0\opentelemetry-common-1.55.0.jar;C:\Users\nagesh\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.55.0\opentelemetry-exporter-logging-1.55.0.jar;C:\Users\nagesh\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.55.0\opentelemetry-sdk-common-1.55.0.jar;C:\Users\nagesh\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.55.0\opentelemetry-sdk-extension-autoconfigure-spi-1.55.0.jar;C:\Users\nagesh\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.55.0\opentelemetry-sdk-extension-autoconfigure-1.55.0.jar;C:\Users\nagesh\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.55.0\opentelemetry-sdk-trace-1.55.0.jar;C:\Users\nagesh\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.55.0\opentelemetry-sdk-1.55.0.jar;C:\Users\nagesh\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.55.0\opentelemetry-sdk-metrics-1.55.0.jar;C:\Users\nagesh\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.55.0\opentelemetry-sdk-logs-1.55.0.jar;C:\Users\nagesh\.m2\repository\net\bytebuddy\byte-buddy\1.17.8\byte-buddy-1.17.8.jar;C:\Users\nagesh\.m2\repository\org\seleniumhq\selenium\selenium-os\4.38.0\selenium-os-4.38.0.jar;C:\Users\nagesh\.m2\repository\org\apache\commons\commons-exec\1.5.0\commons-exec-1.5.0.jar;C:\Users\nagesh\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.38.0\selenium-safari-driver-4.38.0.jar;C:\Users\nagesh\.m2\repository\org\seleniumhq\selenium\selenium-support\4.38.0\selenium-support-4.38.0.jar;C:\Users\nagesh\.m2\repository\org\apache\poi\poi\5.2.4\poi-5.2.4.jar;C:\Users\nagesh\.m2\repository\commons-codec\commons-codec\1.16.0\commons-codec-1.16.0.jar;C:\Users\nagesh\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\nagesh\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\nagesh\.m2\repository\com\zaxxer\SparseBitSet\1.3\SparseBitSet-1.3.jar;C:\Users\nagesh\.m2\repository\commons-io\commons-io\2.13.0\commons-io-2.13.0.jar;C:\Users\nagesh\.m2\repository\org\apache\poi\poi-ooxml\5.2.4\poi-ooxml-5.2.4.jar;C:\Users\nagesh\.m2\repository\org\apache\poi\poi-ooxml-lite\5.2.4\poi-ooxml-lite-5.2.4.jar;C:\Users\nagesh\.m2\repository\org\apache\xmlbeans\xmlbeans\5.1.1\xmlbeans-5.1.1.jar;C:\Users\nagesh\.m2\repository\org\apache\commons\commons-compress\1.24.0\commons-compress-1.24.0.jar;C:\Users\nagesh\.m2\repository\com\github\virtuald\curvesapi\1.08\curvesapi-1.08.jar;C:\Users\nagesh\.m2\repository\io\github\bonigarcia\webdrivermanager\5.9.1\webdrivermanager-5.9.1.jar;C:\Users\nagesh\.m2\repository\org\slf4j\slf4j-api\2.0.13\slf4j-api-2.0.13.jar;C:\Users\nagesh\.m2\repository\com\google\code\gson\gson\2.11.0\gson-2.11.0.jar;C:\Users\nagesh\.m2\repository\com\google\errorprone\error_prone_annotations\2.27.0\error_prone_annotations-2.27.0.jar;C:\Users\nagesh\.m2\repository\com\github\docker-java\docker-java\3.3.6\docker-java-3.3.6.jar;C:\Users\nagesh\.m2\repository\com\github\docker-java\docker-java-core\3.3.6\docker-java-core-3.3.6.jar;C:\Users\nagesh\.m2\repository\com\github\docker-java\docker-java-api\3.3.6\docker-java-api-3.3.6.jar;C:\Users\nagesh\.m2\repository\org\slf4j\jcl-over-slf4j\1.7.30\jcl-over-slf4j-1.7.30.jar;C:\Users\nagesh\.m2\repository\com\github\docker-java\docker-java-transport-httpclient5\3.3.6\docker-java-transport-httpclient5-3.3.6.jar;C:\Users\nagesh\.m2\repository\com\github\docker-java\docker-java-transport\3.3.6\docker-java-transport-3.3.6.jar;C:\Users\nagesh\.m2\repository\net\java\dev\jna\jna\5.13.0\jna-5.13.0.jar;C:\Users\nagesh\.m2\repository\org\brotli\dec\0.1.2\dec-0.1.2.jar;C:\Users\nagesh\.m2\repository\org\apache\commons\commons-lang3\3.14.0\commons-lang3-3.14.0.jar;C:\Users\nagesh\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.2.1\httpclient5-5.2.1.jar;C:\Users\nagesh\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.2\httpcore5-5.2.jar;C:\Users\nagesh\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.2\httpcore5-h2-5.2.jar;C:\Users\nagesh\.m2\repository\org\testng\testng\7.8.0\testng-7.8.0.jar;C:\Users\nagesh\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\nagesh\.m2\repository\org\webjars\jquery\3.6.1\jquery-3.6.1.jar;C:\Users\nagesh\.m2\repository\org\slf4j\slf4j-simple\2.0.9\slf4j-simple-2.0.9.jar;C:\Users\nagesh\.m2\repository\org\apache\logging\log4j\log4j-core\2.25.1\log4j-core-2.25.1.jar;C:\Users\nagesh\.m2\repository\org\apache\logging\log4j\log4j-api\2.24.3\log4j-api-2.24.3.jar;C:\Users\nagesh\.m2\repository\org\apache\logging\log4j\log4j-slf4j-impl\2.24.3\log4j-slf4j-impl-2.24.3.jar;C:\Users\nagesh\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.20.0\jackson-databind-2.20.0.jar;C:\Users\nagesh\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.20\jackson-annotations-2.20.jar;C:\Users\nagesh\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.20.0\jackson-core-2.20.0.jar;C:\Users\nagesh\.m2\repository\com\aventstack\extentreports\3.1.5\extentreports-3.1.5.jar;C:\Users\nagesh\.m2\repository\org\freemarker\freemarker\2.3.23\freemarker-2.3.23.jar;C:\Users\nagesh\.m2\repository\org\mongodb\mongodb-driver\3.3.0\mongodb-driver-3.3.0.jar;C:\Users\nagesh\.m2\repository\org\mongodb\bson\3.3.0\bson-3.3.0.jar;C:\Users\nagesh\.m2\repository\org\mongodb\mongodb-driver-core\3.3.0\mongodb-driver-core-3.3.0.jar;C:\Users\nagesh\.m2\repository\org\apache\httpcomponents\httpclient\4.5.2\httpclient-4.5.2.jar;C:\Users\nagesh\.m2\repository\org\apache\httpcomponents\httpcore\4.4.4\httpcore-4.4.4.jar;C:\Users\nagesh\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\nagesh\.m2\repository\org\apache\httpcomponents\httpmime\4.5.2\httpmime-4.5.2.jar;C:\Users\nagesh\.m2\repository\org\jsoup\jsoup\1.9.2\jsoup-1.9.2.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\nagesh\AppData\Local\Temp\surefire13744398793129602078\surefirebooter-20251230172731953_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\nagesh\AppData\Local\Temp\surefire14690750329558589343\surefirebooter-20251231151736725_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21.0.9+7-LTS-338"/>
@@ -59,7 +59,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="65.0"/>
   </properties>
-  <testcase name="verifyLogoIspresent" classname="test.TC001VerifyHeaderPage" time="15.153">
+  <testcase name="verifyLogoIspresent" classname="test.TC001VerifyHeaderPage" time="6.4">
     <system-out><![CDATA[Luanch Browser
 Creat POM Object
 Verify Logo is present
@@ -69,11 +69,11 @@ Logo is displayed
 ]]></system-out>
     <system-err><![CDATA[[main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nagesh\.cache\selenium\chromedriver\win64\143.0.7499.169\chromedriver.exe
-Dec 30, 2025 5:27:42 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Dec 31, 2025 3:17:42 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 143, returning the closest version; found: 142; Please update to a Selenium version that supports CDP version 143
 ]]></system-err>
   </testcase>
-  <testcase name="verifyListYourPriority" classname="test.TC001VerifyHeaderPage" time="6.452">
+  <testcase name="verifyListYourPriority" classname="test.TC001VerifyHeaderPage" time="5.734">
     <system-out><![CDATA[-----Null POM Object------------
 Creat POM Object
 Verify List Your Priority
@@ -85,11 +85,11 @@ https://www.makemytrip.com/
 ]]></system-out>
     <system-err><![CDATA[[main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nagesh\.cache\selenium\chromedriver\win64\143.0.7499.169\chromedriver.exe
-Dec 30, 2025 5:28:15 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Dec 31, 2025 3:17:58 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 143, returning the closest version; found: 142; Please update to a Selenium version that supports CDP version 143
 ]]></system-err>
   </testcase>
-  <testcase name="verifyMyBiz" classname="test.TC001VerifyHeaderPage" time="4.332">
+  <testcase name="verifyMyBiz" classname="test.TC001VerifyHeaderPage" time="6.812">
     <system-out><![CDATA[-----Null POM Object------------
 Creat POM Object
 Verify Introducing my biz
@@ -100,11 +100,11 @@ https://www.makemytrip.com/
 ]]></system-out>
     <system-err><![CDATA[[main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nagesh\.cache\selenium\chromedriver\win64\143.0.7499.169\chromedriver.exe
-Dec 30, 2025 5:28:42 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Dec 31, 2025 3:18:13 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 143, returning the closest version; found: 142; Please update to a Selenium version that supports CDP version 143
 ]]></system-err>
   </testcase>
-  <testcase name="verifyMyTrips" classname="test.TC001VerifyHeaderPage" time="7.475">
+  <testcase name="verifyMyTrips" classname="test.TC001VerifyHeaderPage" time="4.472">
     <system-out><![CDATA[-----Null POM Object------------
 Creat POM Object
 Verify My Trips
@@ -115,11 +115,11 @@ https://www.makemytrip.com/
 ]]></system-out>
     <system-err><![CDATA[[main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nagesh\.cache\selenium\chromedriver\win64\143.0.7499.169\chromedriver.exe
-Dec 30, 2025 5:29:03 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Dec 31, 2025 3:18:30 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 143, returning the closest version; found: 142; Please update to a Selenium version that supports CDP version 143
 ]]></system-err>
   </testcase>
-  <testcase name="verifyFlagIsPresent" classname="test.TC001VerifyHeaderPage" time="3.653">
+  <testcase name="verifyFlagIsPresent" classname="test.TC001VerifyHeaderPage" time="4.608">
     <system-out><![CDATA[-----Null POM Object------------
 Creat POM Object
 Verify Flag is present 
@@ -128,11 +128,11 @@ https://www.makemytrip.com/
 ]]></system-out>
     <system-err><![CDATA[[main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nagesh\.cache\selenium\chromedriver\win64\143.0.7499.169\chromedriver.exe
-Dec 30, 2025 5:29:24 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Dec 31, 2025 3:18:44 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 143, returning the closest version; found: 142; Please update to a Selenium version that supports CDP version 143
 ]]></system-err>
   </testcase>
-  <testcase name="verifyLanguage" classname="test.TC001VerifyHeaderPage" time="5.377">
+  <testcase name="verifyLanguage" classname="test.TC001VerifyHeaderPage" time="4.924">
     <system-out><![CDATA[-----Null POM Object------------
 Creat POM Object
 Verify Language
@@ -142,11 +142,11 @@ https://www.makemytrip.com/
 ]]></system-out>
     <system-err><![CDATA[[main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nagesh\.cache\selenium\chromedriver\win64\143.0.7499.169\chromedriver.exe
-Dec 30, 2025 5:29:41 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Dec 31, 2025 3:18:59 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 143, returning the closest version; found: 142; Please update to a Selenium version that supports CDP version 143
 ]]></system-err>
   </testcase>
-  <testcase name="verifyHotelModule" classname="test.TC005VerifyHotelModule" time="22.244">
+  <testcase name="verifyHotelModule" classname="test.TC005VerifyHotelModule" time="16.201">
     <system-out><![CDATA[-----Null POM Object------------
 Close Browser and Clear Unwanted objectes
 Luanch Browser
@@ -155,11 +155,11 @@ Verify Hoteln Module
 ]]></system-out>
     <system-err><![CDATA[[main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nagesh\.cache\selenium\chromedriver\win64\143.0.7499.169\chromedriver.exe
-Dec 30, 2025 5:30:05 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Dec 31, 2025 3:19:13 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 143, returning the closest version; found: 142; Please update to a Selenium version that supports CDP version 143
 ]]></system-err>
   </testcase>
-  <testcase name="verifyCruseModel" classname="test.TC007VerifyCruiseModule" time="37.739">
+  <testcase name="verifyCruseModel" classname="test.TC007VerifyCruiseModule" time="22.718">
     <system-out><![CDATA[-----Null POM Object------------
 Close Browser and Clear Unwanted objectes
 Luanch Browser
@@ -168,9 +168,9 @@ Verify Cruise Module
 Book Domestic and International Cruises
 APPLY
 SEARCH
-950D81FA260C75D4D9B22C4BF8FABCD4
-E7CF327FFE1E9E335A08FF840576C51D
-https://mmt.odysol.com/swift/cruise?siid=258080&destinationtype=destination&destinations=29&startdate=01%2F01%2F2026&enddate=01%2F31%2F2026&referrer=65ca331062fce7dd8aa1b82100c4e2c1&referrer2=f115f5b3-9038-4b00-b23b-bac0bd3ba033
+5A72387FD10F1DE35CDC5F9F5FB0B310
+C3BB7336D426CDD239736A9FB611FED2
+https://mmt.odysol.com/swift/cruise?siid=258080&destinationtype=destination&destinations=29&startdate=01%2F01%2F2026&enddate=01%2F31%2F2026&referrer=7c1b8db15c79d0a931e6a0cca02aaa59&referrer2=e5448483-74f8-418d-9f28-488a8706a57c
 2 Nights | Australia/New Zealand | Royal Caribbean | Anthem of the Seas
 
 2 Night Weekend Getaway
@@ -201,11 +201,11 @@ Non Refundable Deposit
 ]]></system-out>
     <system-err><![CDATA[[main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nagesh\.cache\selenium\chromedriver\win64\143.0.7499.169\chromedriver.exe
-Dec 30, 2025 5:30:43 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Dec 31, 2025 3:19:39 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 143, returning the closest version; found: 142; Please update to a Selenium version that supports CDP version 143
 ]]></system-err>
   </testcase>
-  <testcase name="verifyHomesAndVillasModule" classname="test.Tc009VerifyHomesAndVillas" time="14.53">
+  <testcase name="verifyHomesAndVillasModule" classname="test.Tc009VerifyHomesAndVillas" time="12.919">
     <system-out><![CDATA[-----Null POM Object------------
 Close Browser and Clear Unwanted objectes
 Luanch Browser
@@ -216,17 +216,18 @@ APPLY
 ]]></system-out>
     <system-err><![CDATA[[main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nagesh\.cache\selenium\chromedriver\win64\143.0.7499.169\chromedriver.exe
-Dec 30, 2025 5:31:39 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Dec 31, 2025 3:20:11 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 143, returning the closest version; found: 142; Please update to a Selenium version that supports CDP version 143
 ]]></system-err>
   </testcase>
-  <testcase name="verifyFliteModule" classname="test.TC004VerifyFliteModule" time="47.076">
+  <testcase name="verifyFliteModule" classname="test.TC004VerifyFliteModule" time="39.906">
     <system-out><![CDATA[-----Null POM Object------------
 Close Browser and Clear Unwanted objectes
 Luanch Browser
 Creat POM Object
 Verify Flite Module 
 One Way
+----------------
 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 , >9 , 0 , 1 , 2 , 3 , 4 , 5 , 6 , >6 ,  
 0
  
@@ -262,11 +263,11 @@ Up to ₹ 600 off
 ]]></system-out>
     <system-err><![CDATA[[main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nagesh\.cache\selenium\chromedriver\win64\143.0.7499.169\chromedriver.exe
-Dec 30, 2025 5:32:08 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Dec 31, 2025 3:20:33 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 143, returning the closest version; found: 142; Please update to a Selenium version that supports CDP version 143
 ]]></system-err>
   </testcase>
-  <testcase name="verifyTravelInsuranceModule" classname="test.TC008VerifyTravelInsuranceModule" time="25.708">
+  <testcase name="verifyTravelInsuranceModule" classname="test.TC008VerifyTravelInsuranceModule" time="19.726">
     <system-out><![CDATA[-----Null POM Object------------
 Close Browser and Clear Unwanted objectes
 Luanch Browser
@@ -286,7 +287,7 @@ NEW
 Student
 Long Term Plans
 Student
-Cover All Your Travel Insurance Needs with MakeMyTrip
+Recommended Plans for Your Trip
 $250k + OPD Travel Insurance
 Use wallet cash to pay now
 You Pay
@@ -306,11 +307,11 @@ $ 1000
 ]]></system-out>
     <system-err><![CDATA[[main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nagesh\.cache\selenium\chromedriver\win64\143.0.7499.169\chromedriver.exe
-Dec 30, 2025 5:33:08 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Dec 31, 2025 3:21:23 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 143, returning the closest version; found: 142; Please update to a Selenium version that supports CDP version 143
 ]]></system-err>
   </testcase>
-  <testcase name="verifyTrainModule" classname="test.TC006VerifyTrainModule" time="18.914">
+  <testcase name="verifyTrainModule" classname="test.TC006VerifyTrainModule" time="18.138">
     <system-out><![CDATA[-----Null POM Object------------
 Close Browser and Clear Unwanted objectes
 Luanch Browser
@@ -327,46 +328,43 @@ W
 T
 F
 S
-11:55 PM,25 JAN
+11:55 PM,26 JAN
 New Delhi
 6h 25m
 View Route
-6:20 AM,26 JAN
+6:20 AM,27 JAN
 Kanpur Central
-SL
-₹ 315
-Available 114
-Free Cancellation
-Updated 5 hrs ago
 3A
 ₹ 795
-Available 103
+Available 109
 Free Cancellation
-Updated 12 hrs ago
+Updated 2 hrs ago
 2A
 ₹ 1100
-Available 29
+Available 32
 Free Cancellation
-Updated 4 hrs ago
+Updated 2 hrs ago
 1A
 ₹ 1830
-Available 12
+Available 11
 Free Cancellation
-Updated 1 hr ago
+Updated 3 hrs ago
 3E
 ₹ 735
-Available 126
+Available 108
 Free Cancellation
-Updated 10 hrs ago
+Updated 7 hrs ago
+SL
+Click to update
 Nearby dates
 ]]></system-out>
     <system-err><![CDATA[[main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nagesh\.cache\selenium\chromedriver\win64\143.0.7499.169\chromedriver.exe
-Dec 30, 2025 5:33:48 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Dec 31, 2025 3:21:53 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 143, returning the closest version; found: 142; Please update to a Selenium version that supports CDP version 143
 ]]></system-err>
   </testcase>
-  <testcase name="verifyHeaderContainer" classname="test.TC003VerifyHeaderContainer" time="53.488">
+  <testcase name="verifyHeaderContainer" classname="test.TC003VerifyHeaderContainer" time="4.3">
     <system-out><![CDATA[-----Null POM Object------------
 Close Browser and Clear Unwanted objectes
 Luanch Browser
@@ -423,11 +421,11 @@ MakeMyTrip - #1 Travel Website 50% OFF on Hotels, Flights & Holiday
 ]]></system-out>
     <system-err><![CDATA[[main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nagesh\.cache\selenium\chromedriver\win64\143.0.7499.169\chromedriver.exe
-Dec 30, 2025 5:34:19 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Dec 31, 2025 3:22:21 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 143, returning the closest version; found: 142; Please update to a Selenium version that supports CDP version 143
 ]]></system-err>
   </testcase>
-  <testcase name="clickONRemainigLogos" classname="test.TC003VerifyHeaderContainer" time="30.137">
+  <testcase name="clickONRemainigLogos" classname="test.TC003VerifyHeaderContainer" time="27.432">
     <system-out><![CDATA[-----Null POM Object------------
 Creat POM Object
 Verify all Rmaining  Different types of logose
@@ -444,17 +442,17 @@ https://www.makemytrip.com/forex/
 Forex Card - Buy Multi-Currency Forex Travel Card Online
 ---------------------------------------------------------------244324
 Travel Insurance
-https://www.makemytrip.com/insurance/common-landing?startDate=1767096358&endDate=1767441958&segment=REGULAR
+https://www.makemytrip.com/insurance/common-landing?startDate=1767174785&endDate=1767520385&segment=REGULAR
 Tripmoney Insurance
 ---------------------------------------------------------------244324
 ]]></system-out>
     <system-err><![CDATA[[main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nagesh\.cache\selenium\chromedriver\win64\143.0.7499.169\chromedriver.exe
-Dec 30, 2025 5:35:24 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Dec 31, 2025 3:22:34 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 143, returning the closest version; found: 142; Please update to a Selenium version that supports CDP version 143
 ]]></system-err>
   </testcase>
-  <testcase name="verifyLoginPage" classname="test.TC002VerifyLoginPage" time="10.634">
+  <testcase name="verifyLoginPage" classname="test.TC002VerifyLoginPage" time="9.859">
     <system-out><![CDATA[-----Null POM Object------------
 Close Browser and Clear Unwanted objectes
 Luanch Browser
@@ -470,7 +468,7 @@ MYBIZ ACCOUNT
 ]]></system-out>
     <system-err><![CDATA[[main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nagesh\.cache\selenium\chromedriver\win64\143.0.7499.169\chromedriver.exe
-Dec 30, 2025 5:36:05 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Dec 31, 2025 3:23:12 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 143, returning the closest version; found: 142; Please update to a Selenium version that supports CDP version 143
 ]]></system-err>
   </testcase>

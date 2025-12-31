@@ -28,16 +28,17 @@ public class TC004VerifyFliteModule extends Base {
 		Thread.sleep(1000);
 		flmodule.clickOnToCity();
 		Thread.sleep(1000);
-		flmodule.clickOnDeparture();
+		//flmodule.clickOnDeparture();
+		//Thread.sleep(1000);
+		//flmodule.selectDepartureDate();
 		Thread.sleep(1000);
-		flmodule.selectDepartureDate();
-		Thread.sleep(1000);
+		System.out.println("----------------");
 		flmodule.closeInfoPopUp();
-		Thread.sleep(4000);
+		Thread.sleep(2000);
 		//flmodule.clickOnReturn();
 		Thread.sleep(1000);
 		//flmodule.clickOnReturnTicket();
-		Thread.sleep(1000);
+		
 		flmodule.clickOnTraveller();
 		Thread.sleep(1000);
 		flmodule.clickOnAdults();
@@ -49,7 +50,7 @@ public class TC004VerifyFliteModule extends Base {
 		flmodule.clickOnTravelClassList();
 		Thread.sleep(1000);
 		JavascriptExecutor js = (JavascriptExecutor) driver; // Scroll down 
-		js.executeScript("window.scrollBy(0,100)");
+		js.executeScript("window.scrollBy(0,200)");
 		flmodule.clickOnApplyBTN();
 		Thread.sleep(1000);
 		try

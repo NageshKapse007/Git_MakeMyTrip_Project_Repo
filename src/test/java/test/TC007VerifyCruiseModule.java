@@ -26,15 +26,15 @@ public class TC007VerifyCruiseModule extends Base{
 		cm.clickOnCruise();
 		Thread.sleep(1000);
 		cm.getText();
-		Thread.sleep(1000);
+		//Thread.sleep(1000);
 		cm.selectDestinationCity();
 		Thread.sleep(1000);
 		cm.selectTravelMonth();
-		Thread.sleep(1000);
+		//Thread.sleep(1000);
 		cm.ClickOnApplyBTN();
 		Thread.sleep(1000);
 		cm.ClickOnSearchBTN();
-		Thread.sleep(1000);
+		//Thread.sleep(1000);
 		Set<String> window = driver.getWindowHandles();
         List<String> getID = new ArrayList(window);
 		

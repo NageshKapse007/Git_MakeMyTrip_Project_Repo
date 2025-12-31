@@ -30,7 +30,6 @@ public class TC001VerifyHeaderPage extends Base{
 		Thread.sleep(1000);
 		headerpage.clickOnCloseSmallPopUpWindow();
 		
-		Thread.sleep(2000);
 		headerpage.verifyLogoIsDisplay();
 
 		}
@@ -38,9 +37,9 @@ public class TC001VerifyHeaderPage extends Base{
 		{
 			System.out.println("Verify Logo is present");
 			
-			Thread.sleep(2000);
+			Thread.sleep(1000);
 			headerpage.clickOnWindow();
-			Thread.sleep(2000);
+			//Thread.sleep(2000);
 			headerpage.verifyLogoIsDisplay();
 		}
 		logger.info("***-----Successfully  Verified Logo is present ------***");
@@ -123,9 +122,9 @@ public class TC001VerifyHeaderPage extends Base{
 		{
 		System.out.println("Verify My Trips");
 		headerpage.clickOnClosePopUpWindow();
-		Thread.sleep(1000);
+		//Thread.sleep(1000);
 		headerpage.clickOnCloseSmallPopUpWindow();
-		Thread.sleep(1000);
+		//Thread.sleep(1000);
 		String text =headerpage.clickOnMyTrips();
 		System.out.println(text);
 		String title = driver.getTitle();
@@ -137,7 +136,7 @@ public class TC001VerifyHeaderPage extends Base{
 		{
 			Thread.sleep(1000);
 			headerpage.clickOnWindow();
-			Thread.sleep(1000);
+			//Thread.sleep(1000);
 			String text =headerpage.clickOnMyTrips();
 			System.out.println(text);
 			String title = driver.getTitle();
@@ -159,7 +158,7 @@ public class TC001VerifyHeaderPage extends Base{
 		headerpage.clickOnClosePopUpWindow();
 		Thread.sleep(1000);
 		headerpage.clickOnCloseSmallPopUpWindow();
-		Thread.sleep(1000);
+		//Thread.sleep(1000);
 	     headerpage.clickOnFlag();
 		String title = driver.getTitle();
 		System.out.println(title);
@@ -170,7 +169,7 @@ public class TC001VerifyHeaderPage extends Base{
 		{
 			Thread.sleep(1000);
 			headerpage.clickOnWindow();
-			Thread.sleep(1000);
+			//Thread.sleep(1000);
 		     headerpage.clickOnFlag();
 			String title = driver.getTitle();
 			System.out.println(title);
@@ -190,7 +189,7 @@ public class TC001VerifyHeaderPage extends Base{
 		headerpage.clickOnClosePopUpWindow();
 		Thread.sleep(1000);
 		headerpage.clickOnCloseSmallPopUpWindow();
-		Thread.sleep(1000);
+		//Thread.sleep(1000);
 		String text =headerpage.clickOnMyLanguage();
 		System.out.println(text);
 		String title = driver.getTitle();
@@ -202,7 +201,7 @@ public class TC001VerifyHeaderPage extends Base{
 		{
 			Thread.sleep(1000);
 			headerpage.clickOnWindow();
-			Thread.sleep(1000);
+			//Thread.sleep(1000);
 			String text =headerpage.clickOnMyLanguage();
 			System.out.println(text);
 			String title = driver.getTitle();

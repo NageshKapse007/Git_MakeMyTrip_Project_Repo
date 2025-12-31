@@ -15,7 +15,7 @@ public class TC002VerifyLoginPage extends Base {
 			
 		
 		System.out.println("Verify Login Page");
-		Thread.sleep(2000);
+		Thread.sleep(1000);
 		login.clickOnLoginBTN();
 			}
 		catch(Exception e)

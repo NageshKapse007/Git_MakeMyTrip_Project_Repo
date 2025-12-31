@@ -18,7 +18,7 @@ public class TC003VerifyHeaderContainer extends Base{
    
    {
 	   testID = "MTHC001";
-	   Thread.sleep(2000);
+	   Thread.sleep(1000);
 	   headerpage.clickOnClosePopUpWindow();
 		headerpage.clickOnCloseSmallPopUpWindow();
 		//headerpage.clickOnWindow();
@@ -32,9 +32,9 @@ public class TC003VerifyHeaderContainer extends Base{
 		 System.out.println(listlogos.getText()); 
 		 //listlogos.click();
 		 Actions act = new Actions(driver);
-		 Thread.sleep(2000);
+		
 		 act.moveToElement(listlogos).build().perform();
-		 Thread.sleep(2000);
+		// Thread.sleep(2000);
 		 System.out.println(driver.getCurrentUrl());
 		 System.out.println(driver.getTitle());
 		 System.out.println("---------------------------------------------------------------");

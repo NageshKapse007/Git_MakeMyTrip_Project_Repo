@@ -28,7 +28,7 @@ public class FliteModule {
 	@FindBy(xpath=("//label[@for='departure']"))
 	private WebElement departure;
 	
-	@FindBy(xpath=("(//div[@class='DayPicker']//div)[128]"))
+	@FindBy(xpath=("(//div[@class='dateInnerCell'])[10]//p[text()='10']"))
 	private WebElement DayPicker;
 	
 	@FindBy(xpath=("//label[@for='return']"))
@@ -124,7 +124,9 @@ public class FliteModule {
 	}
 	public void selectDepartureDate()
 	{
-		wait.until(ExpectedConditions.visibilityOf(DayPicker));
+		JavascriptExecutor js = (JavascriptExecutor)driver;
+		js.executeScript("arguments[0].click();", DayPicker);
+		//wait.until(ExpectedConditions.visibilityOf(DayPicker));
 		DayPicker.click();
 	}
 	public void clickOnReturn()

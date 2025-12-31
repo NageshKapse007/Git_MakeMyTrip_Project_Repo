@@ -22,13 +22,13 @@ public class TC006VerifyTrainModule extends Base {
 		tl.clickOnTrainBooking();
 		Thread.sleep(1000);
 		tl.selectFromCity();
-		Thread.sleep(1000);
+		//Thread.sleep(1000);
 		tl.selectToCity();
 		Thread.sleep(1000);
 		tl.selectTravelDateDate();
-		Thread.sleep(1000);
+		//Thread.sleep(1000);
 		tl.selectClass();
-		Thread.sleep(1000);
+		//Thread.sleep(1000);
 		tl.ClickOnSearchBTN();
 		Thread.sleep(1000);
 		tl.CaptureSearchResult();
