@@ -2026,3 +2026,343 @@
 15:23:27.847 [main] INFO  test.TC002VerifyLoginPage.verifyLoginPage(TC002VerifyLoginPage.java:50)oggger - ***-----Verifed Login Page Test Case------***
 15:23:30.755 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
 15:23:30.796 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+16:11:18.342 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+16:11:28.257 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+16:11:51.554 [main] INFO  test.TC001VerifyHeaderPage.verifyLogoIspresent(TC001VerifyHeaderPage.java:45)oggger - ***-----Successfully  Verified Logo is present ------***
+16:11:54.085 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+16:12:01.198 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+16:12:06.924 [main] INFO  test.TC001VerifyHeaderPage.verifyListYourPriority(TC001VerifyHeaderPage.java:79)oggger - ***-----Verifed List Your Priority Test Case------***
+16:12:09.752 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+16:12:16.333 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+16:12:22.563 [main] INFO  test.TC001VerifyHeaderPage.verifyMyBiz(TC001VerifyHeaderPage.java:113)oggger - ***-----Verifed Introducing my biz Test Case------***
+16:12:25.200 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+16:12:32.094 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+16:12:32.910 [main] INFO  test.TC001VerifyHeaderPage.verifyMyTrips(TC001VerifyHeaderPage.java:147)oggger - ***-----Verifed  My Trips Test Case------***
+16:12:35.393 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+16:12:46.211 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+16:12:55.502 [main] INFO  test.TC001VerifyHeaderPage.verifyFlagIsPresent(TC001VerifyHeaderPage.java:179)oggger - ***-----Verifed Flag is present Test Case------***
+16:12:57.959 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+16:13:05.093 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+16:13:09.201 [main] INFO  test.TC001VerifyHeaderPage.verifyLanguage(TC001VerifyHeaderPage.java:212)oggger - ***-----Verifed  Language Test Case------***
+16:13:11.645 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+16:13:11.689 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+16:13:11.691 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+16:13:19.160 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+16:13:34.503 [main] INFO  test.TC005VerifyHotelModule.verifyHotelModule(TC005VerifyHotelModule.java:44)oggger - ***-----Verifed Hotel Module Test Case------***
+16:13:36.992 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+16:13:37.027 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+16:13:37.031 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+16:13:44.653 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+16:14:06.838 [main] INFO  test.TC007VerifyCruiseModule.verifyCruseModel(TC007VerifyCruiseModule.java:55)oggger - ***-----Verifed Cruise Module Test Case------***
+16:14:09.391 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+16:14:09.441 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+16:14:09.446 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+16:14:15.964 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+16:14:28.291 [main] INFO  test.Tc009VerifyHomesAndVillas.verifyHomesAndVillasModule(Tc009VerifyHomesAndVillas.java:31)oggger - ***-----Verifed Home And Villas Module Test Case------***
+16:14:30.686 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+16:14:30.721 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+16:14:30.723 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+16:14:37.208 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+16:15:13.782 [main] INFO  test.TC004VerifyFliteModule.verifyFliteModule(TC004VerifyFliteModule.java:73)oggger - ***-----Verifed Flite Module Test Case------***
+16:15:16.239 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+16:15:16.278 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+16:15:16.280 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+16:15:22.766 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+16:15:43.876 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+16:15:43.912 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+16:15:43.914 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+16:15:50.663 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+16:16:04.051 [main] INFO  test.TC006VerifyTrainModule.verifyTrainModule(TC006VerifyTrainModule.java:35)oggger - ***-----Verifed Train Module Test Case------***
+16:16:06.476 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+16:16:06.519 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+16:16:06.521 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+16:16:13.612 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+16:16:17.207 [main] INFO  test.TC003VerifyHeaderContainer.verifyHeaderContainer(TC003VerifyHeaderContainer.java:42)oggger - ***-----Verifed HeaderContaine Test Case------***
+16:16:19.659 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+16:16:26.083 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+16:16:52.060 [main] INFO  test.TC003VerifyHeaderContainer.clickONRemainigLogos(TC003VerifyHeaderContainer.java:68)oggger - ***-----Verifed Rmaining Different types of logos Test Case------***
+16:16:54.534 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+16:16:54.579 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+16:16:54.582 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+16:17:01.448 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+16:17:10.464 [main] INFO  test.TC002VerifyLoginPage.verifyLoginPage(TC002VerifyLoginPage.java:50)oggger - ***-----Verifed Login Page Test Case------***
+16:17:13.389 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+16:17:13.439 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+16:32:42.984 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+16:32:51.309 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+16:32:57.169 [main] INFO  test.TC001VerifyHeaderPage.verifyLogoIspresent(TC001VerifyHeaderPage.java:45)oggger - ***-----Successfully  Verified Logo is present ------***
+16:33:00.581 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+16:33:07.473 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+16:33:12.806 [main] INFO  test.TC001VerifyHeaderPage.verifyListYourPriority(TC001VerifyHeaderPage.java:79)oggger - ***-----Verifed List Your Priority Test Case------***
+16:33:15.311 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+16:33:21.526 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+16:33:27.814 [main] INFO  test.TC001VerifyHeaderPage.verifyMyBiz(TC001VerifyHeaderPage.java:113)oggger - ***-----Verifed Introducing my biz Test Case------***
+16:33:30.294 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+16:33:36.648 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+16:33:40.103 [main] INFO  test.TC001VerifyHeaderPage.verifyMyTrips(TC001VerifyHeaderPage.java:147)oggger - ***-----Verifed  My Trips Test Case------***
+16:33:42.636 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+16:33:49.099 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+16:33:53.221 [main] INFO  test.TC001VerifyHeaderPage.verifyFlagIsPresent(TC001VerifyHeaderPage.java:179)oggger - ***-----Verifed Flag is present Test Case------***
+16:33:55.805 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+16:34:02.475 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+16:34:06.912 [main] INFO  test.TC001VerifyHeaderPage.verifyLanguage(TC001VerifyHeaderPage.java:212)oggger - ***-----Verifed  Language Test Case------***
+16:34:09.429 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+16:34:09.470 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+16:34:09.472 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+16:34:16.106 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+16:34:30.944 [main] INFO  test.TC005VerifyHotelModule.verifyHotelModule(TC005VerifyHotelModule.java:44)oggger - ***-----Verifed Hotel Module Test Case------***
+16:34:33.448 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+16:34:33.488 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+16:34:33.491 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+16:34:39.812 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+16:35:00.917 [main] INFO  test.TC007VerifyCruiseModule.verifyCruseModel(TC007VerifyCruiseModule.java:55)oggger - ***-----Verifed Cruise Module Test Case------***
+16:35:03.527 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+16:35:03.575 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+16:35:03.578 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+16:35:10.257 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+16:35:21.559 [main] INFO  test.Tc009VerifyHomesAndVillas.verifyHomesAndVillasModule(Tc009VerifyHomesAndVillas.java:31)oggger - ***-----Verifed Home And Villas Module Test Case------***
+16:35:24.198 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+16:35:24.237 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+16:35:24.239 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+16:35:31.201 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+16:36:17.084 [main] INFO  test.TC004VerifyFliteModule.verifyFliteModule(TC004VerifyFliteModule.java:73)oggger - ***-----Verifed Flite Module Test Case------***
+16:36:19.558 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+16:36:19.595 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+16:36:19.596 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+16:36:27.072 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+16:36:48.703 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+16:36:48.747 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+16:36:48.750 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+16:36:57.949 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+16:37:11.944 [main] INFO  test.TC006VerifyTrainModule.verifyTrainModule(TC006VerifyTrainModule.java:35)oggger - ***-----Verifed Train Module Test Case------***
+16:37:14.414 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+16:37:14.460 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+16:37:14.463 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+16:37:20.882 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+16:37:24.850 [main] INFO  test.TC003VerifyHeaderContainer.verifyHeaderContainer(TC003VerifyHeaderContainer.java:42)oggger - ***-----Verifed HeaderContaine Test Case------***
+16:37:27.306 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+16:37:33.776 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+16:38:01.341 [main] INFO  test.TC003VerifyHeaderContainer.clickONRemainigLogos(TC003VerifyHeaderContainer.java:68)oggger - ***-----Verifed Rmaining Different types of logos Test Case------***
+16:38:03.834 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+16:38:03.878 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+16:38:03.880 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+16:38:10.589 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+16:38:20.114 [main] INFO  test.TC002VerifyLoginPage.verifyLoginPage(TC002VerifyLoginPage.java:50)oggger - ***-----Verifed Login Page Test Case------***
+16:38:22.733 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+16:38:22.777 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+16:46:34.772 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+16:46:43.537 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+16:47:01.162 [main] INFO  test.TC008VerifyTravelInsuranceModule.verifyTravelInsuranceModule(TC008VerifyTravelInsuranceModule.java:41)oggger - ***-----Verifed Travel Insurance Module Test Case------***
+16:47:03.785 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+16:47:03.813 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+16:48:20.931 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+16:48:29.162 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+16:48:51.048 [main] INFO  test.TC008VerifyTravelInsuranceModule.verifyTravelInsuranceModule(TC008VerifyTravelInsuranceModule.java:41)oggger - ***-----Verifed Travel Insurance Module Test Case------***
+16:48:53.527 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+16:48:53.556 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+17:01:47.747 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+17:01:56.450 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:02:02.919 [main] INFO  test.TC001VerifyHeaderPage.verifyLogoIspresent(TC001VerifyHeaderPage.java:45)oggger - ***-----Successfully  Verified Logo is present ------***
+17:02:05.370 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:02:14.678 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:02:19.833 [main] INFO  test.TC001VerifyHeaderPage.verifyListYourPriority(TC001VerifyHeaderPage.java:79)oggger - ***-----Verifed List Your Priority Test Case------***
+17:02:22.337 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:02:29.261 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:02:35.840 [main] INFO  test.TC001VerifyHeaderPage.verifyMyBiz(TC001VerifyHeaderPage.java:113)oggger - ***-----Verifed Introducing my biz Test Case------***
+17:02:38.526 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:02:45.038 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:02:48.531 [main] INFO  test.TC001VerifyHeaderPage.verifyMyTrips(TC001VerifyHeaderPage.java:147)oggger - ***-----Verifed  My Trips Test Case------***
+17:02:51.028 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:02:57.793 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:03:01.862 [main] INFO  test.TC001VerifyHeaderPage.verifyFlagIsPresent(TC001VerifyHeaderPage.java:179)oggger - ***-----Verifed Flag is present Test Case------***
+17:03:04.418 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:03:11.227 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:03:15.555 [main] INFO  test.TC001VerifyHeaderPage.verifyLanguage(TC001VerifyHeaderPage.java:212)oggger - ***-----Verifed  Language Test Case------***
+17:03:18.241 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:03:18.288 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+17:03:18.290 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+17:03:25.164 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:03:43.204 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:03:43.245 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+17:03:43.247 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+17:03:50.045 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:04:12.686 [main] INFO  test.TC007VerifyCruiseModule.verifyCruseModel(TC007VerifyCruiseModule.java:55)oggger - ***-----Verifed Cruise Module Test Case------***
+17:04:15.354 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:04:15.398 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+17:04:15.400 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+17:04:22.625 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:04:34.652 [main] INFO  test.Tc009VerifyHomesAndVillas.verifyHomesAndVillasModule(Tc009VerifyHomesAndVillas.java:31)oggger - ***-----Verifed Home And Villas Module Test Case------***
+17:04:37.143 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:04:37.180 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+17:04:37.181 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+17:04:44.053 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:05:20.471 [main] INFO  test.TC004VerifyFliteModule.verifyFliteModule(TC004VerifyFliteModule.java:73)oggger - ***-----Verifed Flite Module Test Case------***
+17:05:22.999 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:05:23.039 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+17:05:23.039 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+17:05:29.713 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:05:48.012 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:05:48.058 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+17:05:48.061 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+17:05:55.273 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:06:11.762 [main] INFO  test.TC006VerifyTrainModule.verifyTrainModule(TC006VerifyTrainModule.java:35)oggger - ***-----Verifed Train Module Test Case------***
+17:06:14.188 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:06:14.226 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+17:06:14.228 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+17:06:20.729 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:06:24.486 [main] INFO  test.TC003VerifyHeaderContainer.verifyHeaderContainer(TC003VerifyHeaderContainer.java:42)oggger - ***-----Verifed HeaderContaine Test Case------***
+17:06:26.928 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:06:34.017 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:07:08.082 [main] INFO  test.TC003VerifyHeaderContainer.clickONRemainigLogos(TC003VerifyHeaderContainer.java:68)oggger - ***-----Verifed Rmaining Different types of logos Test Case------***
+17:07:11.482 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:07:11.571 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+17:07:11.574 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+17:07:18.826 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:07:27.204 [main] INFO  test.TC002VerifyLoginPage.verifyLoginPage(TC002VerifyLoginPage.java:50)oggger - ***-----Verifed Login Page Test Case------***
+17:07:29.931 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:07:29.988 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+17:08:44.092 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+17:08:53.837 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:09:16.659 [main] INFO  test.TC008VerifyTravelInsuranceModule.verifyTravelInsuranceModule(TC008VerifyTravelInsuranceModule.java:41)oggger - ***-----Verifed Travel Insurance Module Test Case------***
+17:09:19.424 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:09:19.463 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+17:09:47.508 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+17:09:55.931 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:10:11.059 [main] INFO  test.TC005VerifyHotelModule.verifyHotelModule(TC005VerifyHotelModule.java:44)oggger - ***-----Verifed Hotel Module Test Case------***
+17:10:14.108 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:10:14.143 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+17:10:46.773 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+17:10:56.385 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:11:04.759 [main] INFO  test.TC001VerifyHeaderPage.verifyLogoIspresent(TC001VerifyHeaderPage.java:45)oggger - ***-----Successfully  Verified Logo is present ------***
+17:11:07.569 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:11:17.425 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:11:25.399 [main] INFO  test.TC001VerifyHeaderPage.verifyListYourPriority(TC001VerifyHeaderPage.java:79)oggger - ***-----Verifed List Your Priority Test Case------***
+17:11:28.487 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:11:39.276 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:11:49.231 [main] INFO  test.TC001VerifyHeaderPage.verifyMyBiz(TC001VerifyHeaderPage.java:113)oggger - ***-----Verifed Introducing my biz Test Case------***
+17:11:52.402 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:12:01.281 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:12:07.875 [main] INFO  test.TC001VerifyHeaderPage.verifyMyTrips(TC001VerifyHeaderPage.java:147)oggger - ***-----Verifed  My Trips Test Case------***
+17:12:10.493 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:12:18.008 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:12:23.375 [main] INFO  test.TC001VerifyHeaderPage.verifyFlagIsPresent(TC001VerifyHeaderPage.java:179)oggger - ***-----Verifed Flag is present Test Case------***
+17:12:25.875 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:12:33.465 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:12:37.738 [main] INFO  test.TC001VerifyHeaderPage.verifyLanguage(TC001VerifyHeaderPage.java:212)oggger - ***-----Verifed  Language Test Case------***
+17:12:40.189 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:12:40.250 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+17:12:40.256 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+17:12:47.243 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:13:13.895 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:13:13.937 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+17:13:13.940 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+17:13:20.734 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:13:45.641 [main] INFO  test.TC007VerifyCruiseModule.verifyCruseModel(TC007VerifyCruiseModule.java:55)oggger - ***-----Verifed Cruise Module Test Case------***
+17:13:50.615 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:13:50.652 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+17:13:50.655 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+17:13:59.463 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:14:12.337 [main] INFO  test.Tc009VerifyHomesAndVillas.verifyHomesAndVillasModule(Tc009VerifyHomesAndVillas.java:31)oggger - ***-----Verifed Home And Villas Module Test Case------***
+17:14:14.904 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:14:14.960 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+17:14:14.960 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+17:14:22.003 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:15:01.989 [main] INFO  test.TC004VerifyFliteModule.verifyFliteModule(TC004VerifyFliteModule.java:73)oggger - ***-----Verifed Flite Module Test Case------***
+17:15:04.548 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:15:04.592 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+17:15:04.597 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+17:15:12.241 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:15:32.477 [main] INFO  test.TC008VerifyTravelInsuranceModule.verifyTravelInsuranceModule(TC008VerifyTravelInsuranceModule.java:41)oggger - ***-----Verifed Travel Insurance Module Test Case------***
+17:15:35.037 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:15:35.082 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+17:15:35.082 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+17:15:42.121 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:15:57.462 [main] INFO  test.TC006VerifyTrainModule.verifyTrainModule(TC006VerifyTrainModule.java:35)oggger - ***-----Verifed Train Module Test Case------***
+17:16:00.003 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:16:00.058 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+17:16:00.058 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+17:16:06.878 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:16:10.790 [main] INFO  test.TC003VerifyHeaderContainer.verifyHeaderContainer(TC003VerifyHeaderContainer.java:42)oggger - ***-----Verifed HeaderContaine Test Case------***
+17:16:13.321 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:16:20.358 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:16:50.814 [main] INFO  test.TC003VerifyHeaderContainer.clickONRemainigLogos(TC003VerifyHeaderContainer.java:68)oggger - ***-----Verifed Rmaining Different types of logos Test Case------***
+17:16:53.999 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:16:54.096 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+17:16:54.100 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+17:17:01.986 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:17:11.555 [main] INFO  test.TC002VerifyLoginPage.verifyLoginPage(TC002VerifyLoginPage.java:50)oggger - ***-----Verifed Login Page Test Case------***
+17:17:14.216 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:17:14.263 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+17:19:38.232 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+17:19:47.463 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:20:03.997 [main] INFO  test.TC005VerifyHotelModule.verifyHotelModule(TC005VerifyHotelModule.java:44)oggger - ***-----Verifed Hotel Module Test Case------***
+17:20:06.770 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:20:06.802 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+17:20:48.907 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+17:20:57.778 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:21:14.391 [main] INFO  test.TC005VerifyHotelModule.verifyHotelModule(TC005VerifyHotelModule.java:44)oggger - ***-----Verifed Hotel Module Test Case------***
+17:21:17.250 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:21:17.282 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+17:56:11.976 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+17:56:21.187 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:56:28.555 [main] INFO  test.TC001VerifyHeaderPage.verifyLogoIspresent(TC001VerifyHeaderPage.java:45)oggger - ***-----Successfully  Verified Logo is present ------***
+17:56:31.212 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:56:39.546 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:56:45.261 [main] INFO  test.TC001VerifyHeaderPage.verifyListYourPriority(TC001VerifyHeaderPage.java:79)oggger - ***-----Verifed List Your Priority Test Case------***
+17:56:47.785 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:56:54.610 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:57:00.963 [main] INFO  test.TC001VerifyHeaderPage.verifyMyBiz(TC001VerifyHeaderPage.java:113)oggger - ***-----Verifed Introducing my biz Test Case------***
+17:57:03.490 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:57:10.708 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:57:14.501 [main] INFO  test.TC001VerifyHeaderPage.verifyMyTrips(TC001VerifyHeaderPage.java:147)oggger - ***-----Verifed  My Trips Test Case------***
+17:57:17.003 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:57:23.908 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:57:28.283 [main] INFO  test.TC001VerifyHeaderPage.verifyFlagIsPresent(TC001VerifyHeaderPage.java:179)oggger - ***-----Verifed Flag is present Test Case------***
+17:57:30.777 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:57:37.119 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:57:42.033 [main] INFO  test.TC001VerifyHeaderPage.verifyLanguage(TC001VerifyHeaderPage.java:212)oggger - ***-----Verifed  Language Test Case------***
+17:57:44.554 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:57:44.598 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+17:57:44.600 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+17:57:51.264 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:58:16.199 [main] INFO  test.TC005VerifyHotelModule.verifyHotelModule(TC005VerifyHotelModule.java:44)oggger - ***-----Verifed Hotel Module Test Case------***
+17:58:18.654 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:58:18.688 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+17:58:18.690 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+17:58:29.362 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:58:53.364 [main] INFO  test.TC007VerifyCruiseModule.verifyCruseModel(TC007VerifyCruiseModule.java:55)oggger - ***-----Verifed Cruise Module Test Case------***
+17:58:55.910 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:58:55.946 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+17:58:55.948 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+17:59:02.921 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+17:59:14.685 [main] INFO  test.Tc009VerifyHomesAndVillas.verifyHomesAndVillasModule(Tc009VerifyHomesAndVillas.java:31)oggger - ***-----Verifed Home And Villas Module Test Case------***
+17:59:17.162 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+17:59:17.198 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+17:59:17.201 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+17:59:24.145 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+18:00:01.611 [main] INFO  test.TC004VerifyFliteModule.verifyFliteModule(TC004VerifyFliteModule.java:73)oggger - ***-----Verifed Flite Module Test Case------***
+18:00:04.126 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+18:00:04.161 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+18:00:04.163 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+18:00:10.598 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+18:00:30.942 [main] INFO  test.TC008VerifyTravelInsuranceModule.verifyTravelInsuranceModule(TC008VerifyTravelInsuranceModule.java:41)oggger - ***-----Verifed Travel Insurance Module Test Case------***
+18:00:33.423 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+18:00:33.455 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+18:00:33.457 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+18:00:40.380 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+18:00:54.291 [main] INFO  test.TC006VerifyTrainModule.verifyTrainModule(TC006VerifyTrainModule.java:35)oggger - ***-----Verifed Train Module Test Case------***
+18:00:56.782 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+18:00:56.822 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+18:00:56.825 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+18:01:03.525 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+18:01:07.025 [main] INFO  test.TC003VerifyHeaderContainer.verifyHeaderContainer(TC003VerifyHeaderContainer.java:42)oggger - ***-----Verifed HeaderContaine Test Case------***
+18:01:09.504 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+18:01:16.267 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+18:01:41.253 [main] INFO  test.TC003VerifyHeaderContainer.clickONRemainigLogos(TC003VerifyHeaderContainer.java:68)oggger - ***-----Verifed Rmaining Different types of logos Test Case------***
+18:01:43.755 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+18:01:43.791 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***
+18:01:43.794 [main] INFO  pojo.Base.lounchBrowser(Base.java:59)oggger - ***-----Chrome browser and url launched ------***
+18:01:56.856 [main] INFO  pojo.Base.createObject(Base.java:84)oggger - ***-----Created Pom Object ------***
+18:02:05.961 [main] INFO  test.TC002VerifyLoginPage.verifyLoginPage(TC002VerifyLoginPage.java:50)oggger - ***-----Verifed Login Page Test Case------***
+18:02:08.442 [main] INFO  pojo.Base.clearObject(Base.java:97)oggger - ***---- Null Pom Object ------***
+18:02:08.483 [main] INFO  pojo.Base.closeBrowser(Base.java:107)oggger - ***-----Successfully Executed testScript  ------***

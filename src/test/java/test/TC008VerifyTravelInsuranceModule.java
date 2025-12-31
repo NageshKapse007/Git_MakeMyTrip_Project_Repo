@@ -23,15 +23,15 @@ public class TC008VerifyTravelInsuranceModule extends Base {
 	tim.selectDestinationCity();
 	Thread.sleep(1000);
 	tim.ClickOnApplyBTN();
-	//Thread.sleep(1000);
+	Thread.sleep(1000);
 	tim.clickONStartDate();
 	Thread.sleep(1000);
 	tim.clickONEndDate();
-	//Thread.sleep(1000);
+	Thread.sleep(1000);
 	tim.clickONTraveller();
 	Thread.sleep(1000);
 	tim.mouseHoverOnPlanType();
-	//Thread.sleep(1000);
+	Thread.sleep(1000);
 	tim.clickOnExploreBtn();
 	Thread.sleep(1000);
 	tim.recommendedGetText();

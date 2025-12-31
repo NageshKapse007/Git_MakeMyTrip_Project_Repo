@@ -33,7 +33,7 @@ public class TC005VerifyHotelModule extends Base {
 		hm.ClickOnAdults();
 		Thread.sleep(1000);
 		hm.ClickOnChildrens();
-		//Thread.sleep(1000);
+		Thread.sleep(1000);
 		JavascriptExecutor js = (JavascriptExecutor) driver; // Scroll down 
 		js.executeScript("window.scrollBy(0,100)");
 		hm.ClickOnApplyBtn();
