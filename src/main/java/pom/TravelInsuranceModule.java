@@ -56,7 +56,7 @@ public class TravelInsuranceModule {
 	@FindBy(xpath=("//h2[@data-test-id='H2Tag-H2TagStyle']"))
 	private WebElement planTypeText;
 	
-	@FindBy(xpath=("((//section[contains(@data-test-id,'DesktopLayout-')])//div)[12]"))
+	@FindBy(xpath=("(//div[contains(@data-test-id,'InsurancePlans-')]//div[contains(@data-test-id,'InsurancePlansComp-InsurancePlanSection')])[1]"))
 	private WebElement searchResult;
 	
 	private WebDriver driver ;

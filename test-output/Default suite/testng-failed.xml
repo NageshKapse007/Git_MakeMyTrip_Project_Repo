@@ -3,15 +3,15 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="test.TC004VerifyFliteModule">
+      <class name="test.TC005VerifyHotelModule">
         <methods>
           <include name="closeBrowser"/>
           <include name="createObject"/>
-          <include name="verifyFliteModule"/>
+          <include name="verifyHotelModule"/>
           <include name="clearObject"/>
           <include name="lounchBrowser"/>
         </methods>
-      </class> <!-- test.TC004VerifyFliteModule -->
+      </class> <!-- test.TC005VerifyHotelModule -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

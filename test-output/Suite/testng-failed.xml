@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="extentReport.ExtentTestNGIReporterListener"/>
+  </listeners>
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="test.TC004VerifyFliteModule">
+      <class name="test.TC005VerifyHotelModule">
         <methods>
           <include name="closeBrowser"/>
+          <include name="verifyHotelModule"/>
           <include name="createObject"/>
-          <include name="verifyFliteModule"/>
           <include name="clearObject"/>
           <include name="lounchBrowser"/>
         </methods>
-      </class> <!-- test.TC004VerifyFliteModule -->
+      </class> <!-- test.TC005VerifyHotelModule -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

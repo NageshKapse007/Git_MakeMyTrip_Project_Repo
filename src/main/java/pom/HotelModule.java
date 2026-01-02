@@ -27,7 +27,7 @@ public class HotelModule {
 	@FindBy(xpath=("(//div[@class='DayPicker-Day'])[10]"))
 	private WebElement checkINDate;
 	
-	@FindBy(xpath=("(//div[@class='DayPicker-Day'])[14]"))
+	@FindBy(xpath=("(//div[@class='DayPicker-Day'])[30]"))
 	private WebElement checkOutDate;
 	
 	@FindBy(xpath=("(//button[@type='button'])[2]"))
@@ -124,14 +124,17 @@ public class HotelModule {
 	{
 		JavascriptExecutor js = (JavascriptExecutor)driver;
 		//wait.until(ExpectedConditions.elementToBeClickable(applyBTN));
-		js.executeScript("arguments[0].scrollIntoView(false);", applyBTN);
+		js.executeScript("window.scrollBy(0,100)");
+		//js.executeScript("arguments[0].scrollIntoView(true);", applyBTN);
 		applyBTN.click();
 	}
 	public void ClickOnSearchBTN()
 	{
 		JavascriptExecutor js = (JavascriptExecutor)driver;
-		wait.until(ExpectedConditions.elementToBeClickable(searchBTN));
-		js.executeScript("arguments[0].scrollIntoView(false);", searchBTN);
+		//wait.until(ExpectedConditions.elementToBeClickable(searchBTN));
+		js.executeScript("window.scrollBy(0,-100)");
+		js.executeScript("arguments[0].scrollIntoView(true);", searchBTN);
+   
 		searchBTN.click();
 	}
 	public void CaptureSearchResult()

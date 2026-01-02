@@ -29,13 +29,13 @@ public class TC005VerifyHotelModule extends Base {
 		hm.selectCheckOutDate();
 		Thread.sleep(1000);
 		hm.selectRooms();
-		//Thread.sleep(1000);
+		Thread.sleep(1000);
 		hm.ClickOnAdults();
 		Thread.sleep(1000);
 		hm.ClickOnChildrens();
 		Thread.sleep(1000);
-		JavascriptExecutor js = (JavascriptExecutor) driver; // Scroll down 
-		js.executeScript("window.scrollBy(0,100)");
+//		JavascriptExecutor js = (JavascriptExecutor) driver; // Scroll down 
+//		js.executeScript("window.scrollBy(0,500)");
 		hm.ClickOnApplyBtn();
 		Thread.sleep(1000);
 		hm.ClickOnSearchBTN();
