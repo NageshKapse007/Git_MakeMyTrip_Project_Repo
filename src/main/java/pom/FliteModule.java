@@ -189,9 +189,13 @@ public class FliteModule {
 	public void clickOnApplyBTN() throws InterruptedException
 	{
 		JavascriptExecutor js = (JavascriptExecutor)driver;
+		
+		Thread.sleep(1000);
+		//JavascriptExecutor js = (JavascriptExecutor) driver; // Scroll down 
+		js.executeScript("window.scrollBy(0,200)");
+		js.executeScript("arguments[0].style.display='block';", applyBtn);
+		Thread.sleep(1000);
 		wait.until(ExpectedConditions.elementToBeClickable(applyBtn));
-		Thread.sleep(2000);
-		js.executeScript("arguments[0].scrollIntoView(false);", applyBtn);
 		applyBtn.click();
 	}
 	public void clickOnSpecialFareList()
@@ -210,8 +214,9 @@ public class FliteModule {
 		
 		JavascriptExecutor js = (JavascriptExecutor)driver;
 		wait.until(ExpectedConditions.elementToBeClickable(searchBtn));
-		Thread.sleep(2000);
-		js.executeScript("arguments[0].scrollIntoView(false);", searchBtn);
+		Thread.sleep(1000);
+		
+		js.executeScript("arguments[0].style.display='block';", searchBtn);
 		searchBtn.click();
 	}
 	public void closeInfoPopUp()

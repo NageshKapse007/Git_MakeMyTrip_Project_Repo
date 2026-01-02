@@ -91,8 +91,8 @@ public class TravelInsuranceModule {
 	public void ClickOnApplyBTN()
 	{
 		JavascriptExecutor js = (JavascriptExecutor)driver;
-		wait.until(ExpectedConditions.elementToBeClickable(applyBTN));
-		js.executeScript("arguments[0].scrollIntoView(false);", applyBTN);
+		//wait.until(ExpectedConditions.elementToBeClickable(applyBTN));
+		js.executeScript("arguments[0].style.display='block';", applyBTN);
 		System.out.println(applyBTN.getText());
 		applyBTN.click();
 	}
@@ -125,17 +125,20 @@ public class TravelInsuranceModule {
 	}
 	public void clickOnExploreBtn()
 	{
+		
+		JavascriptExecutor js = (JavascriptExecutor)driver;
+		js.executeScript("arguments[0].style.display='block';", exploreBTN);
 		wait.until(ExpectedConditions.elementToBeClickable(exploreBTN));
 		exploreBTN.click();
 	}
 	public void recommendedGetText()
 	{
-		wait.until(ExpectedConditions.elementToBeClickable(planTypeText));
+		wait.until(ExpectedConditions.visibilityOf(planTypeText));
 		System.out.println(planTypeText.getText());
 	}
 	public void CaptureSearchResult()
 	{
-		wait.until(ExpectedConditions.elementToBeClickable(searchResult));
+		wait.until(ExpectedConditions.visibilityOf(searchResult));
 		System.out.println(searchResult.getText());
 	}
 }

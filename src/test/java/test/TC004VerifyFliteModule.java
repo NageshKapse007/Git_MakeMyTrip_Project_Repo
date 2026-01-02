@@ -49,8 +49,6 @@ public class TC004VerifyFliteModule extends Base {
 		Thread.sleep(1000);
 		flmodule.clickOnTravelClassList();
 		Thread.sleep(1000);
-		JavascriptExecutor js = (JavascriptExecutor) driver; // Scroll down 
-		js.executeScript("window.scrollBy(0,200)");
 		flmodule.clickOnApplyBTN();
 		Thread.sleep(1000);
 		try

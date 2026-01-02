@@ -125,7 +125,7 @@ public class HotelModule {
 		JavascriptExecutor js = (JavascriptExecutor)driver;
 		//wait.until(ExpectedConditions.elementToBeClickable(applyBTN));
 		js.executeScript("window.scrollBy(0,100)");
-		//js.executeScript("arguments[0].scrollIntoView(true);", applyBTN);
+		js.executeScript("arguments[0].style.display='block';", applyBTN);
 		applyBTN.click();
 	}
 	public void ClickOnSearchBTN()
@@ -133,7 +133,7 @@ public class HotelModule {
 		JavascriptExecutor js = (JavascriptExecutor)driver;
 		//wait.until(ExpectedConditions.elementToBeClickable(searchBTN));
 		js.executeScript("window.scrollBy(0,-100)");
-		js.executeScript("arguments[0].scrollIntoView(true);", searchBTN);
+	js.executeScript("arguments[0].style.display='block';", searchBTN);
    
 		searchBTN.click();
 	}

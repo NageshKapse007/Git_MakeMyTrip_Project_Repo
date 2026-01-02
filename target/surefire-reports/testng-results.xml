@@ -2,7 +2,7 @@
 <testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-01-02T13:15:12 IST" name="Suite" finished-at="2026-01-02T13:20:36 IST" duration-ms="324250">
+  <suite started-at="2026-01-02T17:40:41 IST" name="Suite" finished-at="2026-01-02T17:46:19 IST" duration-ms="337686">
     <groups>
       <group name="Sanity">
         <method signature="TC002VerifyLoginPage.verifyLoginPage()[pri:0, instance:test.TC002VerifyLoginPage@38d8f54a]" name="verifyLoginPage" class="test.TC002VerifyLoginPage"/>
@@ -24,21 +24,21 @@
         <method signature="TC001VerifyHeaderPage.verifyLanguage()[pri:6, instance:test.TC001VerifyHeaderPage@35e2d654]" name="verifyLanguage" class="test.TC001VerifyHeaderPage"/>
       </group> <!-- Regression -->
     </groups>
-    <test started-at="2026-01-02T13:15:12 IST" name="Test" finished-at="2026-01-02T13:20:36 IST" duration-ms="324250">
+    <test started-at="2026-01-02T17:40:41 IST" name="Test" finished-at="2026-01-02T17:46:19 IST" duration-ms="337686">
       <class name="test.TC006VerifyTrainModule">
-        <test-method is-config="true" signature="lounchBrowser()[pri:0, instance:test.TC006VerifyTrainModule@3349e9bb]" started-at="2026-01-02T13:19:06 IST" name="lounchBrowser" finished-at="2026-01-02T13:19:06 IST" duration-ms="5" status="PASS">
+        <test-method is-config="true" signature="lounchBrowser()[pri:0, instance:test.TC006VerifyTrainModule@3349e9bb]" started-at="2026-01-02T17:44:45 IST" name="lounchBrowser" finished-at="2026-01-02T17:44:45 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- lounchBrowser -->
-        <test-method is-config="true" signature="createObject()[pri:0, instance:test.TC006VerifyTrainModule@3349e9bb]" started-at="2026-01-02T13:19:06 IST" name="createObject" finished-at="2026-01-02T13:19:13 IST" duration-ms="6994" status="PASS">
+        <test-method is-config="true" signature="createObject()[pri:0, instance:test.TC006VerifyTrainModule@3349e9bb]" started-at="2026-01-02T17:44:45 IST" name="createObject" finished-at="2026-01-02T17:44:52 IST" duration-ms="7249" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createObject -->
-        <test-method signature="verifyTrainModule()[pri:0, instance:test.TC006VerifyTrainModule@3349e9bb]" started-at="2026-01-02T13:19:13 IST" name="verifyTrainModule" finished-at="2026-01-02T13:19:26 IST" duration-ms="13089" status="PASS">
+        <test-method signature="verifyTrainModule()[pri:0, instance:test.TC006VerifyTrainModule@3349e9bb]" started-at="2026-01-02T17:44:52 IST" name="verifyTrainModule" finished-at="2026-01-02T17:45:07 IST" duration-ms="14535" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyTrainModule -->
-        <test-method is-config="true" signature="clearObject(org.testng.ITestResult)[pri:0, instance:test.TC006VerifyTrainModule@3349e9bb]" started-at="2026-01-02T13:19:26 IST" name="clearObject" finished-at="2026-01-02T13:19:28 IST" duration-ms="2425" status="PASS">
+        <test-method is-config="true" signature="clearObject(org.testng.ITestResult)[pri:0, instance:test.TC006VerifyTrainModule@3349e9bb]" started-at="2026-01-02T17:45:07 IST" name="clearObject" finished-at="2026-01-02T17:45:09 IST" duration-ms="2725" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -49,25 +49,25 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clearObject -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.TC006VerifyTrainModule@3349e9bb]" started-at="2026-01-02T13:19:28 IST" name="closeBrowser" finished-at="2026-01-02T13:19:28 IST" duration-ms="35" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.TC006VerifyTrainModule@3349e9bb]" started-at="2026-01-02T17:45:09 IST" name="closeBrowser" finished-at="2026-01-02T17:45:09 IST" duration-ms="46" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
       </class> <!-- test.TC006VerifyTrainModule -->
       <class name="test.TC008VerifyTravelInsuranceModule">
-        <test-method is-config="true" signature="lounchBrowser()[pri:0, instance:test.TC008VerifyTravelInsuranceModule@3c19aaa5]" started-at="2026-01-02T13:18:36 IST" name="lounchBrowser" finished-at="2026-01-02T13:18:36 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="lounchBrowser()[pri:0, instance:test.TC008VerifyTravelInsuranceModule@3c19aaa5]" started-at="2026-01-02T17:44:14 IST" name="lounchBrowser" finished-at="2026-01-02T17:44:14 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- lounchBrowser -->
-        <test-method is-config="true" signature="createObject()[pri:0, instance:test.TC008VerifyTravelInsuranceModule@3c19aaa5]" started-at="2026-01-02T13:18:36 IST" name="createObject" finished-at="2026-01-02T13:18:42 IST" duration-ms="6656" status="PASS">
+        <test-method is-config="true" signature="createObject()[pri:0, instance:test.TC008VerifyTravelInsuranceModule@3c19aaa5]" started-at="2026-01-02T17:44:14 IST" name="createObject" finished-at="2026-01-02T17:44:21 IST" duration-ms="6671" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createObject -->
-        <test-method signature="verifyTravelInsuranceModule()[pri:0, instance:test.TC008VerifyTravelInsuranceModule@3c19aaa5]" started-at="2026-01-02T13:18:42 IST" name="verifyTravelInsuranceModule" finished-at="2026-01-02T13:19:03 IST" duration-ms="20880" status="PASS">
+        <test-method signature="verifyTravelInsuranceModule()[pri:0, instance:test.TC008VerifyTravelInsuranceModule@3c19aaa5]" started-at="2026-01-02T17:44:21 IST" name="verifyTravelInsuranceModule" finished-at="2026-01-02T17:44:42 IST" duration-ms="20976" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyTravelInsuranceModule -->
-        <test-method is-config="true" signature="clearObject(org.testng.ITestResult)[pri:0, instance:test.TC008VerifyTravelInsuranceModule@3c19aaa5]" started-at="2026-01-02T13:19:03 IST" name="clearObject" finished-at="2026-01-02T13:19:06 IST" duration-ms="2455" status="PASS">
+        <test-method is-config="true" signature="clearObject(org.testng.ITestResult)[pri:0, instance:test.TC008VerifyTravelInsuranceModule@3c19aaa5]" started-at="2026-01-02T17:44:42 IST" name="clearObject" finished-at="2026-01-02T17:44:45 IST" duration-ms="2572" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -78,25 +78,25 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clearObject -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.TC008VerifyTravelInsuranceModule@3c19aaa5]" started-at="2026-01-02T13:19:06 IST" name="closeBrowser" finished-at="2026-01-02T13:19:06 IST" duration-ms="35" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.TC008VerifyTravelInsuranceModule@3c19aaa5]" started-at="2026-01-02T17:44:45 IST" name="closeBrowser" finished-at="2026-01-02T17:44:45 IST" duration-ms="41" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
       </class> <!-- test.TC008VerifyTravelInsuranceModule -->
       <class name="test.TC005VerifyHotelModule">
-        <test-method is-config="true" signature="lounchBrowser()[pri:0, instance:test.TC005VerifyHotelModule@6aeb35e6]" started-at="2026-01-02T13:16:36 IST" name="lounchBrowser" finished-at="2026-01-02T13:16:36 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="lounchBrowser()[pri:0, instance:test.TC005VerifyHotelModule@6aeb35e6]" started-at="2026-01-02T17:42:10 IST" name="lounchBrowser" finished-at="2026-01-02T17:42:10 IST" duration-ms="5" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- lounchBrowser -->
-        <test-method is-config="true" signature="createObject()[pri:0, instance:test.TC005VerifyHotelModule@6aeb35e6]" started-at="2026-01-02T13:16:36 IST" name="createObject" finished-at="2026-01-02T13:16:43 IST" duration-ms="6944" status="PASS">
+        <test-method is-config="true" signature="createObject()[pri:0, instance:test.TC005VerifyHotelModule@6aeb35e6]" started-at="2026-01-02T17:42:10 IST" name="createObject" finished-at="2026-01-02T17:42:16 IST" duration-ms="6165" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createObject -->
-        <test-method signature="verifyHotelModule()[pri:0, instance:test.TC005VerifyHotelModule@6aeb35e6]" started-at="2026-01-02T13:16:43 IST" name="verifyHotelModule" finished-at="2026-01-02T13:16:59 IST" duration-ms="16004" status="PASS">
+        <test-method signature="verifyHotelModule()[pri:0, instance:test.TC005VerifyHotelModule@6aeb35e6]" started-at="2026-01-02T17:42:16 IST" name="verifyHotelModule" finished-at="2026-01-02T17:42:34 IST" duration-ms="17735" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyHotelModule -->
-        <test-method is-config="true" signature="clearObject(org.testng.ITestResult)[pri:0, instance:test.TC005VerifyHotelModule@6aeb35e6]" started-at="2026-01-02T13:16:59 IST" name="clearObject" finished-at="2026-01-02T13:17:01 IST" duration-ms="2476" status="PASS">
+        <test-method is-config="true" signature="clearObject(org.testng.ITestResult)[pri:0, instance:test.TC005VerifyHotelModule@6aeb35e6]" started-at="2026-01-02T17:42:34 IST" name="clearObject" finished-at="2026-01-02T17:42:37 IST" duration-ms="2709" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -107,25 +107,25 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clearObject -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.TC005VerifyHotelModule@6aeb35e6]" started-at="2026-01-02T13:17:01 IST" name="closeBrowser" finished-at="2026-01-02T13:17:01 IST" duration-ms="40" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.TC005VerifyHotelModule@6aeb35e6]" started-at="2026-01-02T17:42:37 IST" name="closeBrowser" finished-at="2026-01-02T17:42:37 IST" duration-ms="43" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
       </class> <!-- test.TC005VerifyHotelModule -->
       <class name="test.TC001VerifyHeaderPage">
-        <test-method is-config="true" signature="lounchBrowser()[pri:0, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T13:15:12 IST" name="lounchBrowser" finished-at="2026-01-02T13:15:13 IST" duration-ms="598" status="PASS">
+        <test-method is-config="true" signature="lounchBrowser()[pri:0, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T17:40:41 IST" name="lounchBrowser" finished-at="2026-01-02T17:40:42 IST" duration-ms="697" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- lounchBrowser -->
-        <test-method is-config="true" signature="createObject()[pri:0, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T13:15:13 IST" name="createObject" finished-at="2026-01-02T13:15:20 IST" duration-ms="7756" status="PASS">
+        <test-method is-config="true" signature="createObject()[pri:0, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T17:40:42 IST" name="createObject" finished-at="2026-01-02T17:40:50 IST" duration-ms="8032" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createObject -->
-        <test-method signature="verifyLogoIspresent()[pri:1, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T13:15:20 IST" name="verifyLogoIspresent" finished-at="2026-01-02T13:15:27 IST" duration-ms="6138" status="PASS">
+        <test-method signature="verifyLogoIspresent()[pri:1, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T17:40:50 IST" name="verifyLogoIspresent" finished-at="2026-01-02T17:40:56 IST" duration-ms="5797" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLogoIspresent -->
-        <test-method is-config="true" signature="clearObject(org.testng.ITestResult)[pri:0, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T13:15:27 IST" name="clearObject" finished-at="2026-01-02T13:15:29 IST" duration-ms="2558" status="PASS">
+        <test-method is-config="true" signature="clearObject(org.testng.ITestResult)[pri:0, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T17:40:56 IST" name="clearObject" finished-at="2026-01-02T17:40:58 IST" duration-ms="2758" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -136,15 +136,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clearObject -->
-        <test-method is-config="true" signature="createObject()[pri:0, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T13:15:29 IST" name="createObject" finished-at="2026-01-02T13:15:36 IST" duration-ms="6672" status="PASS">
+        <test-method is-config="true" signature="createObject()[pri:0, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T17:40:58 IST" name="createObject" finished-at="2026-01-02T17:41:05 IST" duration-ms="6301" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createObject -->
-        <test-method signature="verifyListYourPriority()[pri:2, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T13:15:36 IST" name="verifyListYourPriority" finished-at="2026-01-02T13:15:41 IST" duration-ms="5074" status="PASS">
+        <test-method signature="verifyListYourPriority()[pri:2, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T17:41:05 IST" name="verifyListYourPriority" finished-at="2026-01-02T17:41:10 IST" duration-ms="5301" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyListYourPriority -->
-        <test-method is-config="true" signature="clearObject(org.testng.ITestResult)[pri:0, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T13:15:41 IST" name="clearObject" finished-at="2026-01-02T13:15:43 IST" duration-ms="2604" status="PASS">
+        <test-method is-config="true" signature="clearObject(org.testng.ITestResult)[pri:0, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T17:41:10 IST" name="clearObject" finished-at="2026-01-02T17:41:14 IST" duration-ms="4300" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -155,15 +155,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clearObject -->
-        <test-method is-config="true" signature="createObject()[pri:0, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T13:15:43 IST" name="createObject" finished-at="2026-01-02T13:15:50 IST" duration-ms="6115" status="PASS">
+        <test-method is-config="true" signature="createObject()[pri:0, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T17:41:14 IST" name="createObject" finished-at="2026-01-02T17:41:21 IST" duration-ms="6419" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createObject -->
-        <test-method signature="verifyMyBiz()[pri:3, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T13:15:50 IST" name="verifyMyBiz" finished-at="2026-01-02T13:15:56 IST" duration-ms="6044" status="PASS">
+        <test-method signature="verifyMyBiz()[pri:3, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T17:41:21 IST" name="verifyMyBiz" finished-at="2026-01-02T17:41:27 IST" duration-ms="6254" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyMyBiz -->
-        <test-method is-config="true" signature="clearObject(org.testng.ITestResult)[pri:0, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T13:15:56 IST" name="clearObject" finished-at="2026-01-02T13:15:58 IST" duration-ms="2498" status="PASS">
+        <test-method is-config="true" signature="clearObject(org.testng.ITestResult)[pri:0, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T17:41:27 IST" name="clearObject" finished-at="2026-01-02T17:41:30 IST" duration-ms="2708" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -174,15 +174,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clearObject -->
-        <test-method is-config="true" signature="createObject()[pri:0, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T13:15:58 IST" name="createObject" finished-at="2026-01-02T13:16:06 IST" duration-ms="7799" status="PASS">
+        <test-method is-config="true" signature="createObject()[pri:0, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T17:41:30 IST" name="createObject" finished-at="2026-01-02T17:41:37 IST" duration-ms="6963" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createObject -->
-        <test-method signature="verifyMyTrips()[pri:4, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T13:16:06 IST" name="verifyMyTrips" finished-at="2026-01-02T13:16:07 IST" duration-ms="982" status="PASS">
+        <test-method signature="verifyMyTrips()[pri:4, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T17:41:37 IST" name="verifyMyTrips" finished-at="2026-01-02T17:41:40 IST" duration-ms="3503" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyMyTrips -->
-        <test-method is-config="true" signature="clearObject(org.testng.ITestResult)[pri:0, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T13:16:07 IST" name="clearObject" finished-at="2026-01-02T13:16:09 IST" duration-ms="2513" status="PASS">
+        <test-method is-config="true" signature="clearObject(org.testng.ITestResult)[pri:0, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T17:41:40 IST" name="clearObject" finished-at="2026-01-02T17:41:43 IST" duration-ms="2521" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -193,15 +193,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clearObject -->
-        <test-method is-config="true" signature="createObject()[pri:0, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T13:16:09 IST" name="createObject" finished-at="2026-01-02T13:16:16 IST" duration-ms="6997" status="PASS">
+        <test-method is-config="true" signature="createObject()[pri:0, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T17:41:43 IST" name="createObject" finished-at="2026-01-02T17:41:50 IST" duration-ms="7352" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createObject -->
-        <test-method signature="verifyFlagIsPresent()[pri:5, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T13:16:16 IST" name="verifyFlagIsPresent" finished-at="2026-01-02T13:16:20 IST" duration-ms="3940" status="PASS">
+        <test-method signature="verifyFlagIsPresent()[pri:5, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T17:41:50 IST" name="verifyFlagIsPresent" finished-at="2026-01-02T17:41:54 IST" duration-ms="4268" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyFlagIsPresent -->
-        <test-method is-config="true" signature="clearObject(org.testng.ITestResult)[pri:0, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T13:16:20 IST" name="clearObject" finished-at="2026-01-02T13:16:23 IST" duration-ms="2502" status="PASS">
+        <test-method is-config="true" signature="clearObject(org.testng.ITestResult)[pri:0, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T17:41:54 IST" name="clearObject" finished-at="2026-01-02T17:41:57 IST" duration-ms="2514" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -212,15 +212,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clearObject -->
-        <test-method is-config="true" signature="createObject()[pri:0, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T13:16:23 IST" name="createObject" finished-at="2026-01-02T13:16:29 IST" duration-ms="6372" status="PASS">
+        <test-method is-config="true" signature="createObject()[pri:0, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T17:41:57 IST" name="createObject" finished-at="2026-01-02T17:42:03 IST" duration-ms="6510" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createObject -->
-        <test-method signature="verifyLanguage()[pri:6, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T13:16:29 IST" name="verifyLanguage" finished-at="2026-01-02T13:16:33 IST" duration-ms="4008" status="PASS">
+        <test-method signature="verifyLanguage()[pri:6, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T17:42:03 IST" name="verifyLanguage" finished-at="2026-01-02T17:42:08 IST" duration-ms="4130" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLanguage -->
-        <test-method is-config="true" signature="clearObject(org.testng.ITestResult)[pri:0, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T13:16:33 IST" name="clearObject" finished-at="2026-01-02T13:16:36 IST" duration-ms="2469" status="PASS">
+        <test-method is-config="true" signature="clearObject(org.testng.ITestResult)[pri:0, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T17:42:08 IST" name="clearObject" finished-at="2026-01-02T17:42:10 IST" duration-ms="2537" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -231,25 +231,25 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clearObject -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T13:16:36 IST" name="closeBrowser" finished-at="2026-01-02T13:16:36 IST" duration-ms="40" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.TC001VerifyHeaderPage@35e2d654]" started-at="2026-01-02T17:42:10 IST" name="closeBrowser" finished-at="2026-01-02T17:42:10 IST" duration-ms="36" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
       </class> <!-- test.TC001VerifyHeaderPage -->
       <class name="test.TC004VerifyFliteModule">
-        <test-method is-config="true" signature="lounchBrowser()[pri:0, instance:test.TC004VerifyFliteModule@f6efaab]" started-at="2026-01-02T13:17:54 IST" name="lounchBrowser" finished-at="2026-01-02T13:17:54 IST" duration-ms="5" status="PASS">
+        <test-method is-config="true" signature="lounchBrowser()[pri:0, instance:test.TC004VerifyFliteModule@f6efaab]" started-at="2026-01-02T17:43:31 IST" name="lounchBrowser" finished-at="2026-01-02T17:43:31 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- lounchBrowser -->
-        <test-method is-config="true" signature="createObject()[pri:0, instance:test.TC004VerifyFliteModule@f6efaab]" started-at="2026-01-02T13:17:54 IST" name="createObject" finished-at="2026-01-02T13:18:00 IST" duration-ms="6640" status="PASS">
+        <test-method is-config="true" signature="createObject()[pri:0, instance:test.TC004VerifyFliteModule@f6efaab]" started-at="2026-01-02T17:43:31 IST" name="createObject" finished-at="2026-01-02T17:43:37 IST" duration-ms="6623" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createObject -->
-        <test-method signature="verifyFliteModule()[pri:0, instance:test.TC004VerifyFliteModule@f6efaab]" started-at="2026-01-02T13:18:00 IST" name="verifyFliteModule" finished-at="2026-01-02T13:18:33 IST" duration-ms="32722" status="PASS">
+        <test-method signature="verifyFliteModule()[pri:0, instance:test.TC004VerifyFliteModule@f6efaab]" started-at="2026-01-02T17:43:37 IST" name="verifyFliteModule" finished-at="2026-01-02T17:44:12 IST" duration-ms="34595" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyFliteModule -->
-        <test-method is-config="true" signature="clearObject(org.testng.ITestResult)[pri:0, instance:test.TC004VerifyFliteModule@f6efaab]" started-at="2026-01-02T13:18:33 IST" name="clearObject" finished-at="2026-01-02T13:18:36 IST" duration-ms="2480" status="PASS">
+        <test-method is-config="true" signature="clearObject(org.testng.ITestResult)[pri:0, instance:test.TC004VerifyFliteModule@f6efaab]" started-at="2026-01-02T17:44:12 IST" name="clearObject" finished-at="2026-01-02T17:44:14 IST" duration-ms="2554" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -260,25 +260,25 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clearObject -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.TC004VerifyFliteModule@f6efaab]" started-at="2026-01-02T13:18:36 IST" name="closeBrowser" finished-at="2026-01-02T13:18:36 IST" duration-ms="40" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.TC004VerifyFliteModule@f6efaab]" started-at="2026-01-02T17:44:14 IST" name="closeBrowser" finished-at="2026-01-02T17:44:14 IST" duration-ms="40" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
       </class> <!-- test.TC004VerifyFliteModule -->
       <class name="test.TC007VerifyCruiseModule">
-        <test-method is-config="true" signature="lounchBrowser()[pri:0, instance:test.TC007VerifyCruiseModule@1283bb96]" started-at="2026-01-02T13:17:01 IST" name="lounchBrowser" finished-at="2026-01-02T13:17:01 IST" duration-ms="5" status="PASS">
+        <test-method is-config="true" signature="lounchBrowser()[pri:0, instance:test.TC007VerifyCruiseModule@1283bb96]" started-at="2026-01-02T17:42:37 IST" name="lounchBrowser" finished-at="2026-01-02T17:42:37 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- lounchBrowser -->
-        <test-method is-config="true" signature="createObject()[pri:0, instance:test.TC007VerifyCruiseModule@1283bb96]" started-at="2026-01-02T13:17:01 IST" name="createObject" finished-at="2026-01-02T13:17:08 IST" duration-ms="6822" status="PASS">
+        <test-method is-config="true" signature="createObject()[pri:0, instance:test.TC007VerifyCruiseModule@1283bb96]" started-at="2026-01-02T17:42:37 IST" name="createObject" finished-at="2026-01-02T17:42:44 IST" duration-ms="7414" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createObject -->
-        <test-method signature="verifyCruseModel()[pri:0, instance:test.TC007VerifyCruiseModule@1283bb96]" started-at="2026-01-02T13:17:08 IST" name="verifyCruseModel" finished-at="2026-01-02T13:17:30 IST" duration-ms="21722" status="PASS">
+        <test-method signature="verifyCruseModel()[pri:0, instance:test.TC007VerifyCruiseModule@1283bb96]" started-at="2026-01-02T17:42:44 IST" name="verifyCruseModel" finished-at="2026-01-02T17:43:05 IST" duration-ms="21169" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyCruseModel -->
-        <test-method is-config="true" signature="clearObject(org.testng.ITestResult)[pri:0, instance:test.TC007VerifyCruiseModule@1283bb96]" started-at="2026-01-02T13:17:30 IST" name="clearObject" finished-at="2026-01-02T13:17:32 IST" duration-ms="2511" status="PASS">
+        <test-method is-config="true" signature="clearObject(org.testng.ITestResult)[pri:0, instance:test.TC007VerifyCruiseModule@1283bb96]" started-at="2026-01-02T17:43:05 IST" name="clearObject" finished-at="2026-01-02T17:43:10 IST" duration-ms="4314" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -289,25 +289,25 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clearObject -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.TC007VerifyCruiseModule@1283bb96]" started-at="2026-01-02T13:17:32 IST" name="closeBrowser" finished-at="2026-01-02T13:17:32 IST" duration-ms="35" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.TC007VerifyCruiseModule@1283bb96]" started-at="2026-01-02T17:43:10 IST" name="closeBrowser" finished-at="2026-01-02T17:43:10 IST" duration-ms="37" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
       </class> <!-- test.TC007VerifyCruiseModule -->
       <class name="test.Tc009VerifyHomesAndVillas">
-        <test-method is-config="true" signature="createObject()[pri:0, instance:test.Tc009VerifyHomesAndVillas@74f0ea28]" started-at="2026-01-02T13:17:32 IST" name="createObject" finished-at="2026-01-02T13:17:40 IST" duration-ms="7753" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- createObject -->
-        <test-method is-config="true" signature="lounchBrowser()[pri:0, instance:test.Tc009VerifyHomesAndVillas@74f0ea28]" started-at="2026-01-02T13:17:32 IST" name="lounchBrowser" finished-at="2026-01-02T13:17:32 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="lounchBrowser()[pri:0, instance:test.Tc009VerifyHomesAndVillas@74f0ea28]" started-at="2026-01-02T17:43:10 IST" name="lounchBrowser" finished-at="2026-01-02T17:43:10 IST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- lounchBrowser -->
-        <test-method signature="verifyHomesAndVillasModule()[pri:0, instance:test.Tc009VerifyHomesAndVillas@74f0ea28]" started-at="2026-01-02T13:17:40 IST" name="verifyHomesAndVillasModule" finished-at="2026-01-02T13:17:51 IST" duration-ms="11154" status="PASS">
+        <test-method is-config="true" signature="createObject()[pri:0, instance:test.Tc009VerifyHomesAndVillas@74f0ea28]" started-at="2026-01-02T17:43:10 IST" name="createObject" finished-at="2026-01-02T17:43:17 IST" duration-ms="6955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createObject -->
+        <test-method signature="verifyHomesAndVillasModule()[pri:0, instance:test.Tc009VerifyHomesAndVillas@74f0ea28]" started-at="2026-01-02T17:43:17 IST" name="verifyHomesAndVillasModule" finished-at="2026-01-02T17:43:28 IST" duration-ms="11320" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyHomesAndVillasModule -->
-        <test-method is-config="true" signature="clearObject(org.testng.ITestResult)[pri:0, instance:test.Tc009VerifyHomesAndVillas@74f0ea28]" started-at="2026-01-02T13:17:51 IST" name="clearObject" finished-at="2026-01-02T13:17:54 IST" duration-ms="2453" status="PASS">
+        <test-method is-config="true" signature="clearObject(org.testng.ITestResult)[pri:0, instance:test.Tc009VerifyHomesAndVillas@74f0ea28]" started-at="2026-01-02T17:43:28 IST" name="clearObject" finished-at="2026-01-02T17:43:31 IST" duration-ms="2605" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -318,25 +318,25 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clearObject -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.Tc009VerifyHomesAndVillas@74f0ea28]" started-at="2026-01-02T13:17:54 IST" name="closeBrowser" finished-at="2026-01-02T13:17:54 IST" duration-ms="35" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.Tc009VerifyHomesAndVillas@74f0ea28]" started-at="2026-01-02T17:43:31 IST" name="closeBrowser" finished-at="2026-01-02T17:43:31 IST" duration-ms="38" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
       </class> <!-- test.Tc009VerifyHomesAndVillas -->
       <class name="test.TC003VerifyHeaderContainer">
-        <test-method is-config="true" signature="createObject()[pri:0, instance:test.TC003VerifyHeaderContainer@409bf450]" started-at="2026-01-02T13:19:28 IST" name="createObject" finished-at="2026-01-02T13:19:35 IST" duration-ms="6441" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- createObject -->
-        <test-method is-config="true" signature="lounchBrowser()[pri:0, instance:test.TC003VerifyHeaderContainer@409bf450]" started-at="2026-01-02T13:19:28 IST" name="lounchBrowser" finished-at="2026-01-02T13:19:28 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="lounchBrowser()[pri:0, instance:test.TC003VerifyHeaderContainer@409bf450]" started-at="2026-01-02T17:45:09 IST" name="lounchBrowser" finished-at="2026-01-02T17:45:09 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- lounchBrowser -->
-        <test-method signature="verifyHeaderContainer()[pri:1, instance:test.TC003VerifyHeaderContainer@409bf450]" started-at="2026-01-02T13:19:35 IST" name="verifyHeaderContainer" finished-at="2026-01-02T13:19:38 IST" duration-ms="3337" status="PASS">
+        <test-method is-config="true" signature="createObject()[pri:0, instance:test.TC003VerifyHeaderContainer@409bf450]" started-at="2026-01-02T17:45:09 IST" name="createObject" finished-at="2026-01-02T17:45:17 IST" duration-ms="7501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createObject -->
+        <test-method signature="verifyHeaderContainer()[pri:1, instance:test.TC003VerifyHeaderContainer@409bf450]" started-at="2026-01-02T17:45:17 IST" name="verifyHeaderContainer" finished-at="2026-01-02T17:45:21 IST" duration-ms="3985" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyHeaderContainer -->
-        <test-method is-config="true" signature="clearObject(org.testng.ITestResult)[pri:0, instance:test.TC003VerifyHeaderContainer@409bf450]" started-at="2026-01-02T13:19:38 IST" name="clearObject" finished-at="2026-01-02T13:19:40 IST" duration-ms="2473" status="PASS">
+        <test-method is-config="true" signature="clearObject(org.testng.ITestResult)[pri:0, instance:test.TC003VerifyHeaderContainer@409bf450]" started-at="2026-01-02T17:45:21 IST" name="clearObject" finished-at="2026-01-02T17:45:23 IST" duration-ms="2502" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -347,15 +347,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clearObject -->
-        <test-method is-config="true" signature="createObject()[pri:0, instance:test.TC003VerifyHeaderContainer@409bf450]" started-at="2026-01-02T13:19:40 IST" name="createObject" finished-at="2026-01-02T13:19:47 IST" duration-ms="6447" status="PASS">
+        <test-method is-config="true" signature="createObject()[pri:0, instance:test.TC003VerifyHeaderContainer@409bf450]" started-at="2026-01-02T17:45:23 IST" name="createObject" finished-at="2026-01-02T17:45:30 IST" duration-ms="6646" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createObject -->
-        <test-method signature="clickONRemainigLogos()[pri:3, instance:test.TC003VerifyHeaderContainer@409bf450]" started-at="2026-01-02T13:19:47 IST" name="clickONRemainigLogos" finished-at="2026-01-02T13:20:16 IST" duration-ms="28988" status="PASS">
+        <test-method signature="clickONRemainigLogos()[pri:3, instance:test.TC003VerifyHeaderContainer@409bf450]" started-at="2026-01-02T17:45:30 IST" name="clickONRemainigLogos" finished-at="2026-01-02T17:45:58 IST" duration-ms="28346" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clickONRemainigLogos -->
-        <test-method is-config="true" signature="clearObject(org.testng.ITestResult)[pri:0, instance:test.TC003VerifyHeaderContainer@409bf450]" started-at="2026-01-02T13:20:16 IST" name="clearObject" finished-at="2026-01-02T13:20:18 IST" duration-ms="2482" status="PASS">
+        <test-method is-config="true" signature="clearObject(org.testng.ITestResult)[pri:0, instance:test.TC003VerifyHeaderContainer@409bf450]" started-at="2026-01-02T17:45:58 IST" name="clearObject" finished-at="2026-01-02T17:46:01 IST" duration-ms="2670" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -366,25 +366,25 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clearObject -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.TC003VerifyHeaderContainer@409bf450]" started-at="2026-01-02T13:20:18 IST" name="closeBrowser" finished-at="2026-01-02T13:20:18 IST" duration-ms="40" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.TC003VerifyHeaderContainer@409bf450]" started-at="2026-01-02T17:46:01 IST" name="closeBrowser" finished-at="2026-01-02T17:46:01 IST" duration-ms="49" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
       </class> <!-- test.TC003VerifyHeaderContainer -->
       <class name="test.TC002VerifyLoginPage">
-        <test-method is-config="true" signature="lounchBrowser()[pri:0, instance:test.TC002VerifyLoginPage@38d8f54a]" started-at="2026-01-02T13:20:18 IST" name="lounchBrowser" finished-at="2026-01-02T13:20:18 IST" duration-ms="5" status="PASS">
+        <test-method is-config="true" signature="lounchBrowser()[pri:0, instance:test.TC002VerifyLoginPage@38d8f54a]" started-at="2026-01-02T17:46:01 IST" name="lounchBrowser" finished-at="2026-01-02T17:46:01 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- lounchBrowser -->
-        <test-method is-config="true" signature="createObject()[pri:0, instance:test.TC002VerifyLoginPage@38d8f54a]" started-at="2026-01-02T13:20:18 IST" name="createObject" finished-at="2026-01-02T13:20:25 IST" duration-ms="6705" status="PASS">
+        <test-method is-config="true" signature="createObject()[pri:0, instance:test.TC002VerifyLoginPage@38d8f54a]" started-at="2026-01-02T17:46:01 IST" name="createObject" finished-at="2026-01-02T17:46:08 IST" duration-ms="6996" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createObject -->
-        <test-method signature="verifyLoginPage()[pri:0, instance:test.TC002VerifyLoginPage@38d8f54a]" started-at="2026-01-02T13:20:25 IST" name="verifyLoginPage" finished-at="2026-01-02T13:20:34 IST" duration-ms="8643" status="PASS">
+        <test-method signature="verifyLoginPage()[pri:0, instance:test.TC002VerifyLoginPage@38d8f54a]" started-at="2026-01-02T17:46:08 IST" name="verifyLoginPage" finished-at="2026-01-02T17:46:16 IST" duration-ms="8241" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginPage -->
-        <test-method is-config="true" signature="clearObject(org.testng.ITestResult)[pri:0, instance:test.TC002VerifyLoginPage@38d8f54a]" started-at="2026-01-02T13:20:34 IST" name="clearObject" finished-at="2026-01-02T13:20:36 IST" duration-ms="2478" status="PASS">
+        <test-method is-config="true" signature="clearObject(org.testng.ITestResult)[pri:0, instance:test.TC002VerifyLoginPage@38d8f54a]" started-at="2026-01-02T17:46:16 IST" name="clearObject" finished-at="2026-01-02T17:46:19 IST" duration-ms="2560" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -395,7 +395,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clearObject -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.TC002VerifyLoginPage@38d8f54a]" started-at="2026-01-02T13:20:36 IST" name="closeBrowser" finished-at="2026-01-02T13:20:36 IST" duration-ms="35" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.TC002VerifyLoginPage@38d8f54a]" started-at="2026-01-02T17:46:19 IST" name="closeBrowser" finished-at="2026-01-02T17:46:19 IST" duration-ms="43" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
